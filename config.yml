@@ -45,16 +45,16 @@ url: http://blog.stackexchange.com
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ''
 
-collections:
-  authors:
-    output: true
-    permalink: /authors/:title/
-  tags:
-    output: true
-    permalink: /tags/:title/
-  categories:
-    output: true
-    permalink: /category/:title/
+# collections:
+#   authors:
+#     output: true
+#     permalink: /authors/:title/
+#   tags:
+#     output: true
+#     permalink: /tags/:title/
+#   categories:
+#     output: true
+#     permalink: /category/:title/
 
 #
 # !! You don't need to change any of the configuration flags below !!
